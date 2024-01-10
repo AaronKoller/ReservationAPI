@@ -29,3 +29,4 @@ Returns an array of available time slots
 
 4. To Confirm the reservation call with the same client ID and the same GUID
 **PATCH**: https://localhost:7211/Provider/ConfirmReservation?timeSlotId=63ddd473-fe1d-4920-afdd-2a6942c90d4b&clientId=1
+
